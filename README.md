@@ -1,6 +1,6 @@
 ### Hi there, I'm Isagani! 👋
 
-I'm a Web and Mobile Full-Stack Developer and currently a student taking Bachelor of Science in Information Technology
+I'm an Aspiring Web and Mobile Full-Stack Developer!
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,javascript,css,html,php,firebase,bootstrap,tailwind,figma)](https://skillicons.dev)
