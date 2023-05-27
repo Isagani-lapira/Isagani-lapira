@@ -13,7 +13,7 @@
   ### Languages
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,javascript,cs,javascript,css,html)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=php,firebase,figma)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=php,firebase)](https://skillicons.dev) 
 
   ### Framework that I already used
   [![My Skills](https://skillicons.dev/icons?i=jquery,tailwind,bootstrap)](https://skillicons.dev)
