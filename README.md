@@ -5,7 +5,7 @@
 <span>Connect with me</span>
 <a href="https://www.youtube.com/watch?v=_ml2roKZPhA">
 
-  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev](https://www.youtube.com/watch?v=_ml2roKZPhA))
+  ![My Skills](https://skillicons.dev/icons?i=twitter)
   
  </a>
 <div>
