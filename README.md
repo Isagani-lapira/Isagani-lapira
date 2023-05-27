@@ -3,9 +3,11 @@
 <h1>I'm Isagani T. Lapira Jr <br/> 
   an Aspiring Web and Mobile <br/> Full-Stack Developer!</h1>
 <span>Connect with me</span>
-<a href="https://github.com/anuraghazra/github-readme-stats](https://www.facebook.com/jordan.castro.37266)">
- 
-</a>
+<a href="https://www.youtube.com/watch?v=_ml2roKZPhA">
+
+  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+  
+ </a>
 <div>
 
   ### Languages
