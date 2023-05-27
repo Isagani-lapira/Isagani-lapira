@@ -3,11 +3,13 @@
 <h1>I'm Isagani T. Lapira Jr <br/> 
   an Aspiring Web and Mobile <br/> Full-Stack Developer!</h1>
 <span>Connect with me</span>
-<a href="https://www.youtube.com/watch?v=_ml2roKZPhA">
-
-  ![My Skills](https://skillicons.dev/icons?i=twitter)
+<a href="[https://www.youtube.com/watch?v=_ml2roKZPhA](https://www.facebook.com/jordan.castro.37266)](https://twitter.com/lapira_isagani)">
   
+  ![My Skills](https://skillicons.dev/icons?i=twitter)
  </a>
+  
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isagani-lapira-jr-a5424b223/) 
+
 <div>
 
   ### Languages
