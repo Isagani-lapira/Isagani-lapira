@@ -1,8 +1,11 @@
 ### Hi there! 👋
 
 <h1>I'm Isagani T. Lapira Jr <br/> 
-  an Aspiring Web and Mobile <br/> Full-Stack Developer! </h1>
-
+  an Aspiring Web and Mobile <br/> Full-Stack Developer!</h1>
+<span>Connect with me</span>
+<a href="https://github.com/anuraghazra/github-readme-stats](https://www.facebook.com/jordan.castro.37266)">
+ 
+</a>
 <div>
 
   ### Languages
