@@ -3,7 +3,7 @@
 <h1>I'm Isagani T. Lapira Jr <br/> 
   an Aspiring Web and Mobile <br/> Full-Stack Developer! </h1>
 
-<div style="background-color:red">
+<div>
 
   ### Languages
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,javascript,cs,javascript,css,html)](https://skillicons.dev)
