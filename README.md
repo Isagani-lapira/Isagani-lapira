@@ -11,14 +11,14 @@
 <div>
 
   ### Languages
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,javascript,cs,javascript,css,html)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,javascript,cs)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=php,firebase)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=php,javascript,css,html)](https://skillicons.dev) 
 
   ### Framework that I already used
   [![My Skills](https://skillicons.dev/icons?i=jquery,tailwind,bootstrap)](https://skillicons.dev)
 
-  ### What I used for database
+  ### What I used for Database
   [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,sqlite)](https://skillicons.dev)
 
   ### IDE that I used
