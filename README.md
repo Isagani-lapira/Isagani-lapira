@@ -21,15 +21,23 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2304395A.svg?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=04395A)
   
   ### IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio)](https://skillicons.dev)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isagani-lapira&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+  
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isagani-lapira&theme=radical" alt="Isagani's GitHub Contribution"/>
   </a>
 </p>
+  
+
   
 <a> 
     <a href="https://github.com/alsiam"><img alt="Isagani's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Isagani-lapira&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
