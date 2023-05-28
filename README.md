@@ -25,9 +25,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isagani-lapira&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p align="center">
+<p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isagani-lapira&theme=radical" alt="Isagani's GitHub Contribution"/>
   </a>
 </p>
   
