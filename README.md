@@ -1,6 +1,6 @@
 ### Hi there,I'm Isagani! 👋
 
-
+<p>Hello! My name is Isagani Lapira Jr. I'm currently a student in Bulacan State University pursuing to become a either Web/Mobile Full stack developer :)</p>
 
 <div>
 
