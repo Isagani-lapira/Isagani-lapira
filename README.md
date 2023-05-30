@@ -2,6 +2,26 @@
 
 <p>Hello! My name is Isagani Lapira Jr. I'm currently a student in Bulacan State University pursuing to become a either Web/Mobile Full stack developer :)</p>
 
+### Connect with me
+
+<div>
+
+  <a href="https://www.instagram.com/isagani_lapirajr/">
+  
+  ![Instagram](https://img.shields.io/badge/Instagram-%23EF990D.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</a>
+<a href="https://www.instagram.com/isagani_lapirajr/">
+  
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+
+<a href="https://twitter.com/lapira_isagani">
+  
+ ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</a>
+</div>
+
+
 <div>
 
   ### Languages and Tools
