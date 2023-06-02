@@ -35,14 +35,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-F4810D?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=F4810D)
 ![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2304395A.svg?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=04395A)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft%20sql%20server&logoColor=white)
   
   ### IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078D7)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&labelColor=black&logo=Eclipse&logoColor=FE7A16)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=5C2D91)
 
 
   
